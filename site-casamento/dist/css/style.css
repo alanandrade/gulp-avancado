@@ -1,0 +1,17 @@
+@import 'src/scss/atoms/variables.scss';
+/*=========== ATOMS =============*/
+
+@import 'src/scss/molecules/teste.scss';
+/*=========== MOLECULES =============*/
+
+@import 'src/scss/organisms/geral.scss';
+/*=========== ORGANISMS =============*/
+
+@import 'src/scss/pages/teste.scss';
+/*=========== PAGES =============*/
+
+@import 'src/scss/utilities/teste.scss';
+/*=========== UTILITIES =============*/
+
+@import 'src/scss/templates/teste.scss';
+/*=========== TEMPLATES =============*/
